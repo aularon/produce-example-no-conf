@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "produce-coffee-script": "^0.1.0",
+    "produce-less": "^0.1.1",
+    "produce-pug": "^0.1.0"
+  }
+}
