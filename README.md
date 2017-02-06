@@ -1,7 +1,9 @@
 # produce-example-no-conf
 A no-configuration example for [`produce`](https://github.com/etabits/node-produce) engine.
 
-`produce` looks at your [`package.json`](https://github.com/aularon/produce-example-no-conf/blob/master/package.json) and finds plugins, automatically sets `rules`, `source` and `target` based on command line arguments
+`produce` looks at your [`package.json`](https://github.com/aularon/produce-example-no-conf/blob/master/package.json) and finds plugins, automatically sets `rules` from that.
+
+Then, based command line arguments it sets `source` and `target` (more info on this in the [Run](#run) section below)
 
 ## Setup
 ### 1. Clone repository
